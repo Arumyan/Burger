@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './Layout.module.scss'
+import classes from './Layout.module.scss';
 
 const Layout = (props) => {
   return (
@@ -10,4 +10,4 @@ const Layout = (props) => {
   );
 };
 
-export default Layout
+export default Layout;
